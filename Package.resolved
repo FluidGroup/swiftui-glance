@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "swift-rubber-banding",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/FluidGroup/swift-rubber-banding",
+      "state" : {
+        "revision" : "f2dbd09829c6267db0a769e7c37fe332dab0b675",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "swiftui-snap-dragging-modifier",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/FluidGroup/swiftui-snap-dragging-modifier",
+      "state" : {
+        "revision" : "19088a4078ee15e450391323897fba838585c51c",
+        "version" : "1.3.0"
+      }
+    },
+    {
+      "identity" : "swiftui-support",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/FluidGroup/swiftui-support",
+      "state" : {
+        "revision" : "c610c1e46c14c4660beb4ef7fe0241941dbecdc6",
+        "version" : "0.5.0"
+      }
+    }
+  ],
+  "version" : 2
+}
